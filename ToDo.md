@@ -49,7 +49,7 @@ https://weather.yahoo.co.jp/weather/jp/11/4330.html
 とりあえず肉は焼くだろう  
 ひつじや https://tabelog.com/saitama/A1107/A110701/11023541/  
 場内居酒屋の利用を想定   
-![外観] (https://raw.githubusercontent.com/isaotomikawa/camp0527/IMG_8159.JPG)
+![外観] (https://raw.githubusercontent.com/isaotomikawa/Camp170527/IMG_8159.JPG)
 石橋さんが夜食パエリアとホットサンドの朝食 
 
 # 精算について
