@@ -8,7 +8,8 @@ http://tomoegawa-camp.com/
 
 # 参加者
 5/9現在
-石橋、田村、服部、桐生、桐生(弟さん)、冨川
+石橋、田村、服部、桐生、桐生(弟さん)、冨川  
+出欠: https://chouseisan.com/s?h=ada99879a1cb4c52b191d2de3a76e692  
 
 # 配車
 1. 石橋 = 3名 (石橋、田村、服部)  
@@ -64,3 +65,8 @@ http://tomoegawa-camp.com/info/
 近くにできました。
 http://www.seibuchichibu-matsurinoyu.jp/matsuri/
 行きたい人はお風呂セットがあるとよいでしょう。
+
+# 特記事項
+虫除けはあったほうが良い  
+http://www.ikedamohando.co.jp/products/repellent/musipale_a30.html  
+
