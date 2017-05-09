@@ -4,7 +4,7 @@
 # 会場
 秩父巴川オートキャンプ場
 http://tomoegawa-camp.com/  
-地図 = https://goo.gl/maps/KeF8Hd7irkw 
+地図 = https://goo.gl/maps/KeF8Hd7irkw   
 ※関越道花園IC経由の場合、皆野寄居バイパスを使うと思います。  
 　つい最近延伸されていますが、地図には出ていません。素直に終点まで行くとキャンプ場はすぐです。  
 https://trafficnews.jp/post/64855/
