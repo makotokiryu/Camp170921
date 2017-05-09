@@ -50,7 +50,7 @@ https://weather.yahoo.co.jp/weather/jp/11/4330.html
 ひつじや https://tabelog.com/saitama/A1107/A110701/11023541/  
 場内居酒屋の利用を想定   
 <img src="https://github.com/isaotomikawa/Camp170527/blob/master/IMG_8160.JPG?raw=true" width="320px">
-![外観] (https://github.com/isaotomikawa/Camp170527/blob/master/IMG_8160.JPG?raw=true)
+<img src="https://github.com/isaotomikawa/Camp170527/blob/master/IMG_8185.JPG?raw=true" width="320px">  
 石橋さんが夜食パエリアとホットサンドの朝食 
 
 # 精算について
