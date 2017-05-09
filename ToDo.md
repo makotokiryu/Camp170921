@@ -3,8 +3,8 @@
 
 # 会場
 秩父巴川オートキャンプ場
-http://tomoegawa-camp.com/
-地図 = https://goo.gl/maps/KeF8Hd7irkw
+http://tomoegawa-camp.com/  
+地図 = https://goo.gl/maps/KeF8Hd7irkw 
 
 # 参加者
 5/9現在
@@ -16,11 +16,11 @@ http://tomoegawa-camp.com/
 3. 冨川 = ソロ  
 
 # 撤収判断基準
-- 前日(5/26)午前中判断。
+- 前日(5/26)午前中判断  
 - 中止判断基準 = 5/27〜5/29期間中の降水確率60%以上、風速5m以上
-- ソースは以下を総合。    
-http://www.tenki.jp/forecast/3/14/4330/11207-daily.html
-https://weather.yahoo.co.jp/weather/jp/11/4330.html
+- ソースは以下を総合    
+http://www.tenki.jp/forecast/3/14/4330/11207-daily.html  
+https://weather.yahoo.co.jp/weather/jp/11/4330.html 
 
 # 集合
 |時間|場所|メンバー|
@@ -38,7 +38,7 @@ https://weather.yahoo.co.jp/weather/jp/11/4330.html
 # 食事
 酒含めて現地近場調達が基本。  
 とりあえず肉は焼くだろう  
-ひつじや https://tabelog.com/saitama/A1107/A110701/11023541/ 
+ひつじや https://tabelog.com/saitama/A1107/A110701/11023541/  
 場内居酒屋の利用を想定 
 石橋さんが夜食パエリアとホットサンドの朝食 
 
