@@ -7,7 +7,8 @@ http://tomoegawa-camp.com/
 地図 = https://goo.gl/maps/KeF8Hd7irkw   
 ※関越道花園IC経由の場合、皆野寄居バイパスを使うと思います。  
 　つい最近延伸されていますが、地図には出ていません。素直に終点まで行くとキャンプ場はすぐです。  
-https://trafficnews.jp/post/64855/
+https://trafficnews.jp/post/64855/  
+この辺が終点 https://goo.gl/maps/gJ3WJiCXzSR2  
 
 R299経由を考えている場合、羊山公園の芝桜渋滞の恐れがあります。  
 秩父市内R299/R140の交差点渋滞状況と、羊山公園の芝桜の開花状況に注意。
