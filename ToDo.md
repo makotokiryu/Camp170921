@@ -91,3 +91,6 @@ http://www.seibuchichibu-matsurinoyu.jp/matsuri/
 虫除けはあったほうが良い  
 http://www.ikedamohando.co.jp/products/repellent/musipale_a30.html  
 
+# 星観望ご参考
+天文カレンダー https://www.astroarts.co.jp/phenomena/2017/05/index-j.shtml
+月齢 http://koyomi8.com/moonage.htm?cmd=20170509110
