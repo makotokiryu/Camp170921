@@ -82,7 +82,8 @@ http://tomoegawa-camp.com/info/
 |車追加料|追加1台につき+1000円|0円|
 |合計|-|26000円|
 
-おひとり:
+おひとり: 計算中  
+https://docs.google.com/spreadsheets/d/1-DX-txVyCAUE8SxxHQVZtLN6C_PQ97AXmWlJ9wMFCDg/edit#gid=0
 
 
 # お風呂
