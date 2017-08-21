@@ -50,7 +50,7 @@ https://fumotoppara.net/rate
 <img src="https://github.com/isaotomikawa/Camp170921/blob/master/fee.png?raw=true" width="640px">  
 
 # お風呂
-風の湯というところが近くて可も不可もなく http://kazenoyu.net/  
+風の湯というところが近くて可も不可もなく http://kazenoyu.net/   
 あさぎり温泉　風の湯  
 〒418-0103　静岡県富士宮市上井出3470-1　 TEL・0544-54-2331　FAX・0544-54-2710  
 営業時間　／　AM10：00～PM10：00  
