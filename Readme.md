@@ -50,7 +50,12 @@ https://fumotoppara.net/rate
 <img src="https://github.com/isaotomikawa/Camp170921/blob/master/fee.png?raw=true" width="640px">  
 
 # お風呂
-未調査だけど富士宮焼きそばやの方に何か有った   
+風の湯というところが近くて可も不可もなく http://kazenoyu.net/  
+あさぎり温泉　風の湯  
+〒418-0103　静岡県富士宮市上井出3470-1　 TEL・0544-54-2331　FAX・0544-54-2710  
+営業時間　／　AM10：00～PM10：00  
+定休日　／　毎週火曜日（祝日の場合は翌日）   
+ルート: https://goo.gl/maps/hE34wGS3T5v  
 
 # 特記事項
 虫除けはあったほうが良い  
