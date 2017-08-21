@@ -11,9 +11,9 @@ https://tenki.jp/leisure/5/25/164/20364/
 https://weather.yahoo.co.jp/weather/jp/22/5030/22207.html  
 
 # 会場
-朝霧高原 ふもとっぱら  
-https://fumotoppara.net/  
+朝霧高原 ふもとっぱら https://fumotoppara.net/  
 地図 = https://goo.gl/maps/9zfGE7yPCxF2 
+※チェックアウト14時なので楽かも  
 
 # 参加者
 8/21現在  
