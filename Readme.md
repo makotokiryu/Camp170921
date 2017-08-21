@@ -39,7 +39,8 @@ https://chouseisan.com/s?h=00d587d1cc0942ee984d15ef175b0395
 
 # 食事
 未定  
-※ 「むめさん」の富士宮焼きそばは旨い https://goo.gl/maps/iDSSqW66NL42  
+※ 「むめさん」の富士宮焼きそばは旨い https://tabelog.com/shizuoka/A2204/A220401/22002833/  
+ルート https://goo.gl/maps/iDSSqW66NL42  
 
 # 精算について
 薪などの消耗品、食料、交通費（ガソリン、高速代）は後日精算  
