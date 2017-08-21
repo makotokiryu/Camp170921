@@ -18,6 +18,7 @@ https://fumotoppara.net/
 # 参加者
 8/21現在  
 ○ 石橋、桐生、桐生(弟さん)、冨川    
+https://chouseisan.com/s?h=00d587d1cc0942ee984d15ef175b0395  
 
 # 配車
 
