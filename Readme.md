@@ -17,7 +17,7 @@ https://weather.yahoo.co.jp/weather/jp/22/5030/22207.html
 
 # 参加者
 8/21現在  
-○ 石橋、桐生、桐生(弟さん)、大谷、冨川    
+○ 石橋、桐生、桐生(弟さん)、大谷、冨川  
 https://chouseisan.com/s?h=00d587d1cc0942ee984d15ef175b0395  
 
 # 配車
@@ -46,7 +46,7 @@ https://chouseisan.com/s?h=00d587d1cc0942ee984d15ef175b0395
 ## 内訳
 料金説明サイト  
 https://fumotoppara.net/rate   
-<img src="https://github.com/isaotomikawa/Camp170921/blob/master/fee.png?raw=true" width="320px">  
+<img src="https://github.com/isaotomikawa/Camp170921/blob/master/fee.png?raw=true" width="640px">  
 
 # お風呂
 未調査だけど富士宮焼きそばやの方に何か有った   
