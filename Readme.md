@@ -45,7 +45,8 @@ https://chouseisan.com/s?h=00d587d1cc0942ee984d15ef175b0395
 
 ## 内訳
 料金説明サイト  
-https://fumotoppara.net/rate  
+https://fumotoppara.net/rate   
+<img src="https://github.com/isaotomikawa/Camp170921/blob/master/fee/png?raw=true" width="320px">
 
 # お風呂
 未調査だけど富士宮焼きそばやの方に何か有った   
