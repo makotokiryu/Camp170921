@@ -38,8 +38,9 @@ https://chouseisan.com/s?h=00d587d1cc0942ee984d15ef175b0395
 基本各自準備  
 
 # 食事
-未定  
-※ 「むめさん」の富士宮焼きそばは旨い https://tabelog.com/shizuoka/A2204/A220401/22002833/  
+未定  
+
+「むめさん」の富士宮焼きそばは旨い https://tabelog.com/shizuoka/A2204/A220401/22002833/  
 ルート https://goo.gl/maps/iDSSqW66NL42  
 
 # 精算について
